@@ -9,3 +9,25 @@ Uncompiled Code Repository: https://github.com/michaelaaronherr/michaelaaronherr
 ## Description
 
 This is the code for my personel website. The code is compiled and pushed to the compiled repo which is then deployed to website.
+
+## Getting Started
+
+Install dependencies
+
+```
+npm i
+```
+
+Normal Development
+
+```
+npm start
+```
+
+PWA Development
+
+```
+npm run pwa
+```
+
+
